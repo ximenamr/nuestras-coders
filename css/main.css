@@ -1,0 +1,43 @@
+body{
+  font-family: 'Roboto Slab', serif;
+}
+h1{
+  font-size: 20px;
+  margin-left: 15px;
+ margin-bottom: 3px;
+}
+.subrayado{
+    width:65px;
+    height:5px;
+    background:#000;
+    border-radius:2px;
+    margin-left:15px;
+    margin-bottom: 10px;
+
+}
+.container{
+  overflow: auto;
+}
+
+.box{
+  float: left;
+  margin: 15px;
+}
+
+p  {
+color: white;
+font-size: 15px;
+position: relative;
+bottom: 45px;
+margin-right: 3px;
+text-align:right;
+
+
+}
+
+
+
+
+img{
+  width: 200px;
+}
